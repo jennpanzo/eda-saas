@@ -708,7 +708,7 @@ Enterprise     100    108     708       13697       20
 
 Spending scales sharply with plan tier, with Enterprise and Professional users driving the majority of revenue at $1,000+ monthly spend levels.
 
-```python
+```markdown
 # Concentration of Users by Subscription Plan & Monthly Spend
               $0-$50  $51-$100  $101-$500  $501-$1,000  $1,000+
 Free            1726         0          0            0        0
@@ -738,7 +738,7 @@ Enterprise     175  2635  6142   4320  1363
 
 Smaller firms (<100 employees) mostly cluster at lower spend levels, while larger enterprises (101–10,000+) dominate the $5k+ range.
 
-```python
+```markdown
 # Concentration of Users by Monthly Spend & Company Size
         0-25  26-100  101-500  501-1,000  1,000+
 $100   12185    2965      147          0       0
@@ -752,7 +752,7 @@ $5k+       0       0     3840       9731    3989
 
 Users with higher spend tiers ($2.5k–$5k+) are more likely to sustain longer average session durations (9–17+ minutes).
 
-```python
+```markdown
 # Concentration of Users by Monthly Spend & Session Duration
         0-4   5-8  9-12  12-16   17+
 $100   2347  5680  4107   2334   829
@@ -766,7 +766,7 @@ $5k+    196  3005  7270   5093  1996
 
 Accounts spending $5k+ per month are heavily concentrated at higher onboarding completion rates (80–100%), suggesting adoption depth links to revenue.
 
-```python
+```markdown
 # Concentration of Users by Monthly Spend & Session Duration
        20%   40%   60%   80%  100%
 $100   139  1732  4878  4751  3797
@@ -782,7 +782,7 @@ $5k+     0   932  3866  5262  7500
 
 Enterprise spending is highest in industries such as Aerospace, Telecommunications, and Construction, with Aerospace averaging over $55k monthly.
 
-```js
+```markdown
 # Average Monthly Spend by Subscription Plan for Top Industries
 subscription_plan    Free  Starter    Basic Professional  Enterprise
 industry                                                            
