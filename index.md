@@ -3,7 +3,7 @@ title: Jennifer Panzo
 layout: home
 ---
 
-# Exploratory Data Analysis for SaaS
+# Exploratory Data Analysis of SaaS Metrics
 
 ###### _Tools: Python (Pandas, NumPy, Matplotlib, Seaborn), Microsoft Excel
 <br/>
