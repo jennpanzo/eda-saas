@@ -5,9 +5,11 @@ layout: home
 
 # Exploratory Data Analysis for SaaS
 
-###### _Tools: Python (Pandas, NumPy, Matplotlib), Microsoft Excel
+###### _Tools: Python (Pandas, NumPy, Matplotlib, Seaborn), Microsoft Excel
 <br/>
- 
+
+![Desktop](images/desktop-01.jpg)
+
 ## **Introduction**
 TalentNest is a Seattle-based HR Systems SaaS company founded in 2017, serving customers worldwide across a range of company sizes from small businesses to large enterprises. Its platform includes features such as Employee Directory, Onboarding Workflows, Time-Off Tracking, Payroll, Advanced Analytics, and Employee Surveys.
 
@@ -54,8 +56,6 @@ Brazil             1.89
 ```
 
 ![Country distribution](images/chart01.png)
-
-chart01
 
 ### Industry distribution
 
@@ -238,7 +238,7 @@ Q3 (75th percentile): 13
 Max: 21
 ```
 
-![Average Session Duration2n](images/chart56.png)
+![Average Session Duration2](images/chart56.png)
 
 ### Number of Active Users
 
@@ -688,7 +688,7 @@ Yes                       26.51  26.03                         60.00   60.0
 Not Subscribed            17.44  17.32                         39.90   40.0
 ```
 
-![Chart](images/chart41-2.png)
+![Chart](images/chart41.png)
 
 ### Subscription Plan vs Company Size of all Users
 
@@ -797,6 +797,7 @@ Telecommunications  $0.00  $503.18  $297.39    $4,006.84  $20,979.48
 
 ### Average Monthly Spend by Subscription Plan for Top-Spending Industries
 
+```markdown
 Average Monthly Spend by Subscription Plan for Selected Countries:
 subscription_plan   Free  Starter    Basic Professional  Enterprise
 country                                                            
@@ -805,6 +806,7 @@ Germany            $0.00  $462.75  $308.48    $4,877.91  $22,385.30
 Indonesia          $0.00  $436.48  $771.03    $4,756.24  $15,280.95
 Pakistan           $0.00  $373.62  $409.85    $3,809.81  $31,649.93
 United States      $0.00  $437.40  $291.63    $4,503.85  $22,871.18
+```
 
 ![Chart](images/chart64.png)
 
