@@ -782,7 +782,7 @@ $5k+     0   932  3866  5262  7500
 
 Enterprise spending is highest in industries such as Aerospace, Telecommunications, and Construction, with Aerospace averaging over $55k monthly.
 
-```python
+```js
 # Average Monthly Spend by Subscription Plan for Top Industries
 subscription_plan    Free  Starter    Basic Professional  Enterprise
 industry                                                            
